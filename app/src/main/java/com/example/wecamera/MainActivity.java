@@ -1,9 +1,8 @@
-package com.example.myapplication;
+package com.example.wecamera;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.os.Handler;
 
 public class MainActivity extends AppCompatActivity {
 
